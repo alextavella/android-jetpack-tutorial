@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Jetpack Tutorial</string>
+    <string name="fragment_start_button_counter">Counter</string>
+</resources>
